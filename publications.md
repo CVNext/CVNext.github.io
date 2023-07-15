@@ -3,7 +3,15 @@ layout: page
 title: Publications
 ---
 
--	W. Chai, Z. Jiang, J.-N. Hwang, G. Wang. Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation. arXiv, 2023.
+-	W. Chai, Z. Jiang, J.-N. Hwang, G. Wang. Global Adaptation meets Local Generalization: Unsupervised Domain Adaptation for 3D Human Pose Estimation. ICCV, 2023.
+
+-   W. Chai, X. Guo, G. Wang, Y. Lu. StableVideo: Text-driven Consistency-aware Diffusion Video Editing. ICCV, 2023.
+
+-   Cao, S., Chai, W., Hao, S., & Wang, G. Image Reference-Guided Fashion Design With Structure-Aware Transfer by Diffusion Models. CVPRW, 2023.
+
+-   Zhao, Z., Chai, W., Hao, S., Hu, W., Wang, G., Cao, S., ... & Wang, G. A Survey of Deep Learning in Sports Applications: Perception, Comprehension, and Decision. arXiv, 2023.
+
+-   Zhang, Z., Chai, W., Jiang, Z., Ye, T., Song, M., Hwang, J. N., & Wang, G. MPM: A Unified 2D-3D Human Pose Representation via Masked Pose Modeling. arXiv, 2023.
 
 -	X. Li, K. Shang, G. Wang, M. D Butala. DDMM-Synth: A Denoising Diffusion Model for Cross-modal Medical Image Synthesis with Sparse-view Measurement Embedding. arXiv, 2023.
 
