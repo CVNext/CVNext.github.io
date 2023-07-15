@@ -7,11 +7,11 @@ title: Publications
 
 -   W. Chai, X. Guo, G. Wang, Y. Lu. StableVideo: Text-driven Consistency-aware Diffusion Video Editing. ICCV, 2023.
 
--   Cao, S., Chai, W., Hao, S., & Wang, G. Image Reference-Guided Fashion Design With Structure-Aware Transfer by Diffusion Models. CVPRW, 2023.
+-   S. Cao, W. Chai, S. Hao, G. Wang.  Image Reference-Guided Fashion Design With Structure-Aware Transfer by Diffusion Models. CVPRW, 2023.
 
--   Zhao, Z., Chai, W., Hao, S., Hu, W., Wang, G., Cao, S., ... & Wang, G. A Survey of Deep Learning in Sports Applications: Perception, Comprehension, and Decision. arXiv, 2023.
+-   Z. Zhao, W. Chai, S. Hao, W. Hu, G. Wang, S. Cao, M. Song, J. Hwang, G. Wang.  A Survey of Deep Learning in Sports Applications: Perception, Comprehension, and Decision. arXiv, 2023.
 
--   Zhang, Z., Chai, W., Jiang, Z., Ye, T., Song, M., Hwang, J. N., & Wang, G. MPM: A Unified 2D-3D Human Pose Representation via Masked Pose Modeling. arXiv, 2023.
+-   Z. Zhang, W. Chai, Z. Jiang, T. Ye, M. Song, J. Hwang, G. Wang. MPM: A Unified 2D-3D Human Pose Representation via Masked Pose Modeling. arXiv, 2023.
 
 -	X. Li, K. Shang, G. Wang, M. D Butala. DDMM-Synth: A Denoising Diffusion Model for Cross-modal Medical Image Synthesis with Sparse-view Measurement Embedding. arXiv, 2023.
 
