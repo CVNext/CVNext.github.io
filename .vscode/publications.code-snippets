@@ -1,0 +1,32 @@
+{
+	"Publication Entry": {
+		"prefix": "pub",
+		"body": [
+			"<div class=\"publication\">",
+			"  <img src=\"../static/pubs/${1:image.png}\" class=\"publogo\" width=\"200 px\" height=\"150 px\">",
+			"  <p>",
+			"    <strong>",
+			"      ${2:Title}",
+			"    </strong>",
+			"    <br>",
+			"    ${3:Authors}",
+			"    <br>",
+			"    <font color=\"#E89B00\">",
+			"      <em>${4:Venue, Year}</em>",
+			"    </font>",
+			"    <br>",
+			"    <a href=\"${5:PaperLink}\">[Paper]</a>",
+			"    <a href=\"${6:CodeLink}\">[Code]</a>",
+			"    <!-- <a href=\"\">[Dataset]</a> -->",
+			"    <!-- <a href=\"\">[Website]</a> -->",
+			"    <img alt=\"\" src=\"${7:ShieldLink}\">",
+			"    <br>",
+			"    <font color=\"grey\" size=\"2\">",
+			"      ${8:Description}",
+			"    </font>",
+			"  </p>",
+			"</div>"
+		],
+		"description": "Insert a publication entry"
+	}
+}
